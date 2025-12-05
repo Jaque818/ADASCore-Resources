@@ -2,5 +2,6 @@ pytest
 lz4==4.4.4
 opencv-python~=4.12
 pika
+ultralytics
 ./ecal5-5.13.4-cp312-cp312-linux_aarch64.whl
 
